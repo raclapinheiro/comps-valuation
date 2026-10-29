@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+openpyxl>=3.1
+python-pptx>=0.6.23
+yfinance>=0.2.40
+streamlit>=1.40
+anthropic>=0.40
+pytest>=7.0
